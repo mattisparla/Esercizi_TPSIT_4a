@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1634287513 source:c:\users\matti\documents\3a\informatica\4a\es1inclasse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635495110 source:c:\users\matti\documents\3a\tpsit\4a\es1inclasse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
