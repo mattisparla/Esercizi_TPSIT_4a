@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1633618350 source:c:\users\matti\documents\3a\informatica\4a\csv_tpsit\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1634557002 source:c:\users\matti\documents\3a\tpsit\4a\csv_tpsit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
