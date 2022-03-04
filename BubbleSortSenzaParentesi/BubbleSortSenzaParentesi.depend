@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633346303 source:c:\users\matti\documents\3a\tpsit\4a\bubblesortsenzaparentesi\main.c
+	<stdio.h>
+	<stdlib.h>
+
