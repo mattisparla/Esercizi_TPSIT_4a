@@ -1,3 +1,0 @@
-Il valore della rete cresce con il quadrato del numero dei nodi n(n-1)/2
-Se ho 4 PC ognuno parla con altri 3; il valore e' 6
-Se aggiungo un altro PC in rete il valore sale a 10, e poi 15, 21
