@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1634195540 source:c:\users\matti\documents\3a\informatica\4a\esinclasse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1634195861 source:c:\users\matti\documents\3a\tpsit\4a\espuntatori1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

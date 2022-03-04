@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634892639 source:c:\users\matti\documents\3a\informatica\4a\espuntatori4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
